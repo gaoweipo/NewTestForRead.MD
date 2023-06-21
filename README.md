@@ -1,6 +1,8 @@
 # DEPOT NewTestForRead.MD
 Ce depot est un test pour ajouter un README.MD
 
+<img src="logo.jpg" alt="logo de l'institution" width="100px">
+
 ## GitHub
 1. Initialiser un depot
 2. ajouter le gitignore
